@@ -1,4 +1,4 @@
-# JPA-2-Relacionar-2-tablas
+# JPA-2-Relacionar-Dos-Tablas
 relacionamos dos tablas con las anotaciones @OneToMay y @ManyToOne
 
 
